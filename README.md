@@ -1,15 +1,8 @@
  
   <div >
-  <img src="./assets/cover.png" alt="App brand icon"  />
+  <img src="./assets/coverApp.png" alt="App brand icon"  />
   </div>
-  <br>
-  <p align="center">
-    <a href="#calling-about">About</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-    <a href="#eyes-preview">Preview</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-    <a href="#gear-core-tech-stack">Tech Stack</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-    <a href="#sparkles-main-features">Features</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-    <a href="#camera_flash-screenshots">Screenshots</a>
-  </p>
+   
  <br>
 
 ## 📲 About
@@ -67,11 +60,9 @@ For this, please refer to the app screenshots below. A mixture of both screensho
 
 ## Sanity Dashboard
 <p>
-    <img src="./assets/sanity1.png" width="500">
-    <img src="./assets/sanity2.png" width="500">
-</p>
-<p>
-    <img src="./assets/sanity3.png" width="500">
+    <img src="./assets/sanity1.png" width="600">
+    <img src="./assets/sanity2.png" width="600">
+    <img src="./assets/sanity3.png" width="600">
 </p>
 
 ## My App ScreenShotes
@@ -84,3 +75,65 @@ For this, please refer to the app screenshots below. A mixture of both screensho
     <img src="./assets/phone3.png" width="275">
     <img src="./assets/phone4.png" width="275">
 </p>
+
+## :gear: Installation
+ 
+![](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![](https://img.shields.io/badge/Expo-02569B?style=for-the-badge&logo=Expo&logoColor=white)
+
+### Run Locally my project with Expo CLI
+
+install Expo 
+
+```bash
+npm install --global expo-cli
+```
+
+Clone the project
+
+```bash
+  git clone https://github.com/MoAmineTorjmen/deliveroo-clone.git
+```
+
+change directory
+
+```bash
+  cd Deliveroo-Clone
+```
+
+Install dependencies
+
+```bash
+  npx expo install
+```
+
+Start the server
+
+```bash
+  npx expo start
+```
+
+### Run Locally the Sainty server
+
+install Sanity 
+
+```bash
+npm install -g @sanity/cli 
+```
+change directory
+
+```bash
+cd sanity
+```
+
+launch the Sainty server
+
+```bash
+Sanity start
+```
+
+ 
+ ## 🤝 Contact
+ My linkedin : https://www.linkedin.com/in/torjmen-med-amine-562770176/ 
+ 
+ My Facebook : https://www.facebook.com/TorjmenMedAmine/
