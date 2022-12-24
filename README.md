@@ -60,9 +60,9 @@ For this, please refer to the app screenshots below. A mixture of both screensho
 
 ## Sanity Dashboard
 <p>
-    <img src="./assets/sanity1.png" width="600">
-    <img src="./assets/sanity2.png" width="600">
-    <img src="./assets/sanity3.png" width="600">
+    <img src="./assets/sanity1.png"  >
+    <img src="./assets/sanity2.png"  >
+    <img src="./assets/sanity3.png"  >
 </p>
 
 ## My App ScreenShotes
