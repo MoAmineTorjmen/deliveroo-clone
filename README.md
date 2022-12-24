@@ -1,2 +1,2 @@
 # deliveroo-clone
-it's my first react native application
+Online food ordering mobile app with restaurants around the world
